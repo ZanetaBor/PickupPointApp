@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+.env
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# React
+.DS_Store
+.vscode/
+*.log
+
+# Windows binaries
+*.exe
+*.dll
+*.pdb
+
+# C# and .NET specific
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+*.vscode/
+*.csproj.user
+
+# Expo and React Native
+.expo/
+.expo-shared/
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/build/
+
+# Environment and API keys
+*.env
+config.json
+appsettings.json
+appsettings.Development.json
+
+# Swagger
+swagger/
