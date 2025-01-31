@@ -1,6 +1,0 @@
-@PickupPointAPI_HostAddress = http://localhost:5296
-
-GET {{PickupPointAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
